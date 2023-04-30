@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113009998/233772381-b051a566-85af-4f28-a6e1-5aa209f37318.png">
+    <img align="right" alt="Coding" width="400" src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg">
     <h1>Bash Authorization</h1>
     <h2>Содержание</h2>
     <ul>
